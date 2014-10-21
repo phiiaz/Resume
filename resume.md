@@ -1,76 +1,125 @@
-# Nathaniel Welch
+# Mahmoud Fayyaz
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
+ * <fayyaz.method@gmail.com>
 
-## Background
+## Summry
 
-I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for mankind. 
-
-I am an Eagle Scout and in my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
-
-My goal is to obtain a software development job at a small company, focusing on launching and building software for the web.
+I have a belief that the closest thing we have to superpowers is programming. Since I was a little kid, I always wanted to be superhero and here I am now... on my own way to my superpower.
 
 ## Education
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
-
-## Proficiency
-
-I have been writing code, running servers and experimenting with new software since 2002. Most recently the majority of code I have written has been in Java, Ruby, Python and Bash, but I have experience in PHP, Javascript, Go, C, SML/NJ, SQL and F#.
+Computer Engineering, B.S.  
+Fall 2008 - Spring 2013  
+Alexandria University, Faculty of Engineering
 
 ## Experience
 
-### Open Source Developer
+###Software Engineer at Umm Al-Qura University
+####August 2014 - Present (3 months)
+Working at GIS Technology Innovation Center at Umm Al-Qura University (UQU).
 
-I currently am a contributor to the open source project [fog](http://fog.io) and also a bunch of [other small projects](https://icco.github.io/).
 
-### Google.com
+###Business Intelligence at EJADA
+####February 2014 - May 2014 (4 months)
+Worked As Business Intelligence for out sourcing project for Credit Agricole Egypt. The project was about updating the bank working environment from OFSAA(Oracle Financial Services Analytical Applications) 6 to OFSAA 12
 
-#### Site Reliability Engineer - April 2012 to Present
 
-I currently work as an SRE for Google Compute Engine in London. My job includes being part of an oncall rotation and writing software to maintain, monitor and optimize hundreds of thousands of servers globally. I also spend a decent amount of time analyzing processes used by the teams I work closely with to try and automate people out of a job, myself included. If you are unfamiliar with SRE, check out [Wikipedia](https://en.wikipedia.org/wiki/Reliability_engineering) and [Google's blog](http://googleforstudents.blogspot.com/2012/06/site-reliability-engineers-worlds-most.html).
+###Research Assistant at Smart CI, Virginia Tech MENA
+####October 2013 - February 2014 (5 months)
+Research Assistant under the supervision of Dr. Muhammed El-Sayed and Dr. Marwan El-Torky in Computer Vision specifically in Optical Handwriting Recognition in Arabic language.
+My work was focused on:
 
-In the past I worked in San Francisco, CA on Google Cloud Storage and Google Compute Engine, doing similar things to what I do now.
+1. Collecting and preprocessing 2 data sets.
+	1. Data set for separated letters (9k letter).
+	2. Data set for whole words (25k word).
+2. Solving
+	1. Letter Identification problem.
+	2. Writer Identification problem.
+	3. Gender Identification problem.
+	4. Word Identification problem.
 
-#### Software Engineer - August 2011 to September 2012
+On both data set along side with INF_data set (Tunisian city names data set) and Digit data set (60K
+handwritten digit).
 
-As a Software Engineer at Google, I worked on Punchd, Google Offers and Google Local in Mountain View, CA.
 
-### Punchd, Mountain View, CA
+###Teaching Assistant at Faculty of Engineering, Alexandria University, Egypt
+####September 2013 - January 2014 (5 months)
+* SSP Fall 2013 CC 482: Artificial Intelligent teaching assistant with Prof. Dr. Amin Shoukry.
+* SSP Fall 2013 CC 312: Digital Logic II teaching assistant with Dr. Hanan Hosni.
 
-#### Software Developer - January 2011 to July 2011
 
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. Once at Google I continued to maintain Punchd's servers, backend API and web frontend. I also helped implement a version of Punchd built on Google's infrastructure, but it was never released.
+###Software Engineer at Webalo
+####July 2013 - September 2013 (3 months)
 
-### iFixit.com, San Luis Obispo CA
 
-#### Software Developer - April 2009 to April 2011
+###ChairMan at Alexandria ACM Student Chapter
+####March 2012 - March 2013 (1 year 1 month)
+ACM is a world wide organization that is specialized in the field of computer engineering.
+For me as being the chair man of the branch in Alexandria, It is honor to serve here trying to improve the
+quality and the quantity of computer engineering, scientist , architects and so on. to improve the level of my
+country in the world wide competition.
 
-I wore a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I wrote code mainly in PHP and Bash, and helped maintain our fleet of servers on Amazon's EC2 Service. 
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer workflow
+###Software Engineering Intern at Facebook
+####July 2012 - September 2012 (3 months)
+Working on building a backend for <https://www.facebook.com/help/community> facebook help community
+to be more reliable, scalable, up to date using the Facebook technologies, support searching and integrable
+with Facebook products.
 
-<!--
-### Adobe Systems Incorporated, San Francisco CA
 
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
+###Intern at Wireless Stars
+####September 2010 - October 2010 (2 months)
+Objective-C developer working upon building the IPhone user interface for Intafeen project##Bachelor project
+###ALGhaith
+####September 2012 to July 2013
+####Members:Mahmoud Fayyaz, Rabya Nasr, Mohamed Wahba, Ahmed Jamal
+Designing a search engine is one of the oldest Computer Science problems and still poses a number of challenges. Having ultra-huge companies which are taking over the control with money and power, the most important thing is satisfying users’ demands.
 
- * Tested both daily builds and released versions of Dreamweaver against various operating systems - including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
--->
+Due to the lack of Arabic information on the web, users are sometimes not satisfied with the results obtained from the common search engines. These demands the presence of intelligent search engines that understand the data given in hand and understand the user request to for a better service to the user.
 
-### BSA Camp Oljato, Lakeshore CA
+We have designed Al-Ghaith to work specifically on Arabic language. That because Arabic language is integral to majority of the population of the Middle-East. The language distinct them from countries in other regions and it is also a language manifest in their faith. Arabic is the official lan- guage of hundreds of millions of people in twenty Middle East and northern African countries, and is the religious language of all Muslims of various eth- nicities around the world. It is a Semitic language with 28 alphabet letters.
 
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
+We have faced some challenges such as inherent properties of the Arabic lan- guage, the Arabic script (no short vowels and no capitalization), explosion of ambiguity (average 2.3 per word in other languages to 19.2 in Arabic), com- plex word structure and the problem of Normalization and losing distinction.
 
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks per summer.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others to children ages ten to eighteen.
+Al-Ghaith is working semantically not lexically and that makes it under- standing the metadata and queries too. Building a search engine to work semantically will lead to a lot of challenges such as handling morphological variations, handling concept matching, handling knowledge matching, the ability to enter queries freely, no special formats like quotes, or Boolean op- erators and the ability to operate without relying on statistics, user behavior, and other artificial means.
 
+##Honors and Awards
+
+###Honorrable Mention at ACM ICPC World Finals Saint Petersburg
+####July 2013
+Phun Is Phun (Alexandria Unversity team) qualified and participated in ACM ICPC world finals 2013 in Saint Petersburg Russia.
+
+###Second Place in ACPC
+####December 2012
+Phun Is Phun (Alexandria Unversity team) ranked as the second place in the ACM Arab CollegiateProgramming Contest (ACPC) and qualified to ACM ICPC (World Finals) in Saint Petersburg Russia.
+
+###Solid Programmers in ECPC
+####November 2012
+Phun Is Phun(Alexandria University team) was awarded the "Solid Programmers" for solving 6 algorithmic problems from the first trial in ACM Egypt Collegiate Programming Contest (ECPC).
+
+###Fifth Place in ECPC
+####November 2012
+Phun Is Phun (Alexandria University team) ranked as the fifth place in the ACM Egypt Collegiate Programming Contest(ECPC).
+
+###Fourth Place in ECPC
+####November 2011
+
+##Certifications
+
+###The Data Scientist’s Toolbox
+Coursera August 2014
+
+###R Programming
+Coursera August 2014
+
+###Getting and Cleaning Data
+Coursera September 2014
+
+###Machine Learning
+Coursera September 2014
+
+###Exploratory Data Analysis
+Coursera September 2014
+
+###Reproducible Research
+Coursera September 2014
