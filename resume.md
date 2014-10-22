@@ -4,7 +4,7 @@
 
 ## Summry
 
-I have a belief that the closest thing we have to superpowers is programming. Since I was a little kid, I always wanted to be superhero and here I am now... on my own way to my superpower.
+I have a belief that the closest thing we have to superpower is programming. Since I was a little kid, I always wanted to be superhero and here I am now... on my own way to my superpower.
 
 ## Education
 
@@ -15,17 +15,17 @@ Alexandria University, Faculty of Engineering
 ## Experience
 
 ###Software Engineer at Umm Al-Qura University
-####August 2014 - Present (3 months)
+####August 2014 - Present
 Working at GIS Technology Innovation Center at Umm Al-Qura University (UQU).
 
 
 ###Business Intelligence at EJADA
-####February 2014 - May 2014 (4 months)
+####February 2014 - May 2014
 Worked As Business Intelligence for out sourcing project for Credit Agricole Egypt. The project was about updating the bank working environment from OFSAA(Oracle Financial Services Analytical Applications) 6 to OFSAA 12
 
 
 ###Research Assistant at Smart CI, Virginia Tech MENA
-####October 2013 - February 2014 (5 months)
+####October 2013 - February 2014
 Research Assistant under the supervision of Dr. Muhammed El-Sayed and Dr. Marwan El-Torky in Computer Vision specifically in Optical Handwriting Recognition in Arabic language.
 My work was focused on:
 
@@ -43,17 +43,17 @@ handwritten digit).
 
 
 ###Teaching Assistant at Faculty of Engineering, Alexandria University, Egypt
-####September 2013 - January 2014 (5 months)
+####September 2013 - January 2014
 * SSP Fall 2013 CC 482: Artificial Intelligent teaching assistant with Prof. Dr. Amin Shoukry.
 * SSP Fall 2013 CC 312: Digital Logic II teaching assistant with Dr. Hanan Hosni.
 
 
 ###Software Engineer at Webalo
-####July 2013 - September 2013 (3 months)
+####July 2013 - September 2013
 
 
 ###ChairMan at Alexandria ACM Student Chapter
-####March 2012 - March 2013 (1 year 1 month)
+####March 2012 - March 2013
 ACM is a world wide organization that is specialized in the field of computer engineering.
 For me as being the chair man of the branch in Alexandria, It is honor to serve here trying to improve the
 quality and the quantity of computer engineering, scientist , architects and so on. to improve the level of my
@@ -61,14 +61,14 @@ country in the world wide competition.
 
 
 ###Software Engineering Intern at Facebook
-####July 2012 - September 2012 (3 months)
+####July 2012 - September 2012
 Working on building a backend for <https://www.facebook.com/help/community> facebook help community
 to be more reliable, scalable, up to date using the Facebook technologies, support searching and integrable
 with Facebook products.
 
 
 ###Intern at Wireless Stars
-####September 2010 - October 2010 (2 months)
+####September 2010 - October 2010
 Objective-C developer working upon building the IPhone user interface for Intafeen project##Bachelor project
 ###ALGhaith
 ####September 2012 to July 2013
