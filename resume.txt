@@ -2,7 +2,7 @@
 
  * <fayyaz.method@gmail.com>
 
-## Summry
+## Summary
 
 I have a belief that the closest thing we have to superpower is programming. Since I was a little kid, I always wanted to be superhero and here I am now... on my own way to my superpower.
 
@@ -69,7 +69,15 @@ with Facebook products.
 
 ###Intern at Wireless Stars
 ####September 2010 - October 2010
-Objective-C developer working upon building the IPhone user interface for Intafeen project##Bachelor project
+Objective-C developer working upon building the IPhone user interface for Intafeen project##Publications
+
+###[Window-Based Descriptors for Arabic Handwritten Alphabet Recognition: A Comparative Study on a Novel Dataset](http://arxiv.org/abs/1411.3519)
+####arXiv
+This paper presents a comparative study for window-based descriptors on the application of Arabic handwritten alphabet recognition. We show a detailed experimental evaluation of different descriptors with several classifiers. The objective of the paper is to evaluate different window-based descriptors on the problem of Arabic letter recognition. Our experiments clearly show that they perform very well. Moreover, we introduce a novel spatial pyramid partitioning scheme that enhances the recognition accuracy for most descriptors. In addition, we introduce a novel dataset for Arabic handwritten isolated alphabet letters, which can serve as a benchmark for future research
+
+###[AlexU-Word: A New Dataset for Isolated-Word Closed-Vocabulary Offline Arabic Handwriting Recognition](http://arxiv.org/abs/1411.4670)
+####arXiv
+In this paper, we introduce the first phase of a new dataset for offline Arabic handwriting recognition. The aim is to collect a very large dataset of isolated Arabic words that covers all letters of the alphabet in all possible shapes using a small number of simple words. The end goal is to collect a very large dataset of segmented letter images, which can be used to build and evaluate Arabic handwriting recognition systems that are based on segmented letter recognition. The current version of the dataset contains 25114 samples of 109 unique Arabic words that cover all possible shapes of all alphabet letters. The samples were collected from 907 writers. In its current form, the dataset can be used for the problem of closed-vocabulary word recognition. We evaluated a number of window-based descriptors and classifiers on this task and obtained an accuracy of 92.16\% using a SIFT-based descriptor and ANN.##Bachelor project
 ###ALGhaith
 ####September 2012 to July 2013
 ####Members:Mahmoud Fayyaz, Rabya Nasr, Mohamed Wahba, Ahmed Jamal
@@ -77,21 +85,21 @@ Designing a search engine is one of the oldest Computer Science problems and sti
 
 Due to the lack of Arabic information on the web, users are sometimes not satisfied with the results obtained from the common search engines. These demands the presence of intelligent search engines that understand the data given in hand and understand the user request to for a better service to the user.
 
-We have designed Al-Ghaith to work specifically on Arabic language. That because Arabic language is integral to majority of the population of the Middle-East. The language distinct them from countries in other regions and it is also a language manifest in their faith. Arabic is the official lan- guage of hundreds of millions of people in twenty Middle East and northern African countries, and is the religious language of all Muslims of various eth- nicities around the world. It is a Semitic language with 28 alphabet letters.
+We have designed Al-Ghaith to work specifically on Arabic language. That because Arabic language is integral to majority of the population of the Middle-East. The language distinct them from countries in other regions and it is also a language manifest in their faith. Arabic is the official language of hundreds of millions of people in twenty Middle East and northern African countries, and is the religious language of all Muslims of various ethnicities around the world. It is a Semitic language with 28 alphabet letters.
 
-We have faced some challenges such as inherent properties of the Arabic lan- guage, the Arabic script (no short vowels and no capitalization), explosion of ambiguity (average 2.3 per word in other languages to 19.2 in Arabic), com- plex word structure and the problem of Normalization and losing distinction.
+We have faced some challenges such as inherent properties of the Arabic language, the Arabic script (no short vowels and no capitalization), explosion of ambiguity (average 2.3 per word in other languages to 19.2 in Arabic), complex word structure and the problem of Normalization and losing distinction.
 
-Al-Ghaith is working semantically not lexically and that makes it under- standing the metadata and queries too. Building a search engine to work semantically will lead to a lot of challenges such as handling morphological variations, handling concept matching, handling knowledge matching, the ability to enter queries freely, no special formats like quotes, or Boolean op- erators and the ability to operate without relying on statistics, user behavior, and other artificial means.
+Al-Ghaith is working semantically not lexically and that makes it under- standing the metadata and queries too. Building a search engine to work semantically will lead to a lot of challenges such as handling morphological variations, handling concept matching, handling knowledge matching, the ability to enter queries freely, no special formats like quotes, or Boolean operators and the ability to operate without relying on statistics, user behavior, and other artificial means.
 
 ##Honors and Awards
 
 ###Honorrable Mention at ACM ICPC World Finals Saint Petersburg
 ####July 2013
-Phun Is Phun (Alexandria Unversity team) qualified and participated in ACM ICPC world finals 2013 in Saint Petersburg Russia.
+Phun Is Phun (Alexandria University team) qualified and participated in ACM ICPC world finals 2013 in Saint Petersburg Russia.
 
 ###Second Place in ACPC
 ####December 2012
-Phun Is Phun (Alexandria Unversity team) ranked as the second place in the ACM Arab CollegiateProgramming Contest (ACPC) and qualified to ACM ICPC (World Finals) in Saint Petersburg Russia.
+Phun Is Phun (Alexandria University team) ranked as the second place in the ACM Arab CollegiateProgramming Contest (ACPC) and qualified to ACM ICPC (World Finals) in Saint Petersburg Russia.
 
 ###Solid Programmers in ECPC
 ####November 2012
