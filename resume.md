@@ -14,8 +14,12 @@ Alexandria University, Faculty of Engineering
 
 ## Experience
 
+###Software Engineer at Google Inc.
+####July 2015 - Present
+Working on enterprise Google Hangout meet.
+
 ###Software Engineer at Umm Al-Qura University
-####August 2014 - Present
+####August 2014 - April 2015
 Working at GIS Technology Innovation Center at Umm Al-Qura University (UQU).
 
 
@@ -69,7 +73,10 @@ with Facebook products.
 
 ###Intern at Wireless Stars
 ####September 2010 - October 2010
-Objective-C developer working upon building the IPhone user interface for Intafeen project##Publications
+Objective-C developer working upon building the IPhone user interface for Intafeen project
+
+
+##Publications
 
 ###[Window-Based Descriptors for Arabic Handwritten Alphabet Recognition: A Comparative Study on a Novel Dataset](http://arxiv.org/abs/1411.3519)
 ####arXiv
@@ -77,7 +84,10 @@ This paper presents a comparative study for window-based descriptors on the appl
 
 ###[AlexU-Word: A New Dataset for Isolated-Word Closed-Vocabulary Offline Arabic Handwriting Recognition](http://arxiv.org/abs/1411.4670)
 ####arXiv
-In this paper, we introduce the first phase of a new dataset for offline Arabic handwriting recognition. The aim is to collect a very large dataset of isolated Arabic words that covers all letters of the alphabet in all possible shapes using a small number of simple words. The end goal is to collect a very large dataset of segmented letter images, which can be used to build and evaluate Arabic handwriting recognition systems that are based on segmented letter recognition. The current version of the dataset contains 25114 samples of 109 unique Arabic words that cover all possible shapes of all alphabet letters. The samples were collected from 907 writers. In its current form, the dataset can be used for the problem of closed-vocabulary word recognition. We evaluated a number of window-based descriptors and classifiers on this task and obtained an accuracy of 92.16\% using a SIFT-based descriptor and ANN.##Bachelor project
+In this paper, we introduce the first phase of a new dataset for offline Arabic handwriting recognition. The aim is to collect a very large dataset of isolated Arabic words that covers all letters of the alphabet in all possible shapes using a small number of simple words. The end goal is to collect a very large dataset of segmented letter images, which can be used to build and evaluate Arabic handwriting recognition systems that are based on segmented letter recognition. The current version of the dataset contains 25114 samples of 109 unique Arabic words that cover all possible shapes of all alphabet letters. The samples were collected from 907 writers. In its current form, the dataset can be used for the problem of closed-vocabulary word recognition. We evaluated a number of window-based descriptors and classifiers on this task and obtained an accuracy of 92.16\% using a SIFT-based descriptor and ANN.
+
+
+##Bachelor project
 ###ALGhaith
 ####September 2012 to July 2013
 ####Members:Mahmoud Fayyaz, Rabya Nasr, Mohamed Wahba, Ahmed Jamal
@@ -130,4 +140,4 @@ Coursera September 2014
 Coursera September 2014
 
 ###Reproducible Research
-Coursera September 2014
+Coursera September 2014
