@@ -6,12 +6,6 @@
 
 I have a belief that the closest thing we have to superpower is programming. Since I was a little kid, I always wanted to be superhero and here I am now... on my own way to my superpower.
 
-## Education
-
-Computer Engineering, B.S.  
-Fall 2008 - Spring 2013  
-Alexandria University, Faculty of Engineering
-
 ## Experience
 
 ###Software Engineer at Google Inc.
@@ -100,6 +94,12 @@ We have designed Al-Ghaith to work specifically on Arabic language. That because
 We have faced some challenges such as inherent properties of the Arabic language, the Arabic script (no short vowels and no capitalization), explosion of ambiguity (average 2.3 per word in other languages to 19.2 in Arabic), complex word structure and the problem of Normalization and losing distinction.
 
 Al-Ghaith is working semantically not lexically and that makes it under- standing the metadata and queries too. Building a search engine to work semantically will lead to a lot of challenges such as handling morphological variations, handling concept matching, handling knowledge matching, the ability to enter queries freely, no special formats like quotes, or Boolean operators and the ability to operate without relying on statistics, user behavior, and other artificial means.
+
+## Education
+
+Computer Engineering, B.S.  
+Fall 2008 - Spring 2013  
+Alexandria University, Faculty of Engineering
 
 ##Honors and Awards
 
