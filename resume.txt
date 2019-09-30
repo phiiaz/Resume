@@ -10,7 +10,9 @@ I have a belief that the closest thing we have to superpower is programming. Sin
 
 ###Software Engineer at Google Inc.
 ####July 2015 - Present
-Working on enterprise Google Hangout meet.
+* Techlead Calendar room insights.
+* Working as Backend SWE on Google calendar resources.
+* Working as Frontend SWE on Chromebox for meetings as the enterprise solution for video conferencing and meetings offered by Google.
 
 ###Software Engineer at Umm Al-Qura University
 ####August 2014 - April 2015
